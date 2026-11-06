@@ -43,7 +43,7 @@ The reference workflow was documented for **Python 3.10.9**. Selected package de
 
 ## Running the reference code
 
-The script expects a **separately prepared, curated** Excel file named `SFRC_curated_dataset.xlsx` in the same directory. The expected input includes `log_Nf`, the five model features, fiber type, substrate type, and data-quality labels.
+The script expects a **separately prepared, curated** Excel file named `Data of SFRC.xlsx` in the same directory. The expected input includes `log₁₀(Nf)`, the five model features, fiber type, substrate type, and data-quality labels.
 
 Once a compatible curated dataset has been prepared and the required dependencies installed, run:
 
